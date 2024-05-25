@@ -4,6 +4,6 @@
 
 ## Session 1 :
 
-- ### :man_technologist: [Coding Assignment](./Chapter%2001%20-%20Inception/coding/)
+- ### :man_technologist: [Coding Assignment](./Chapter%2001%20-%20Inception/Coding/)
 - ### :green_book: [Theory Assignment](./Chapter%2001%20-%20Inception/Theory/)
 
